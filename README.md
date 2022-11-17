@@ -14,7 +14,7 @@
 Final version of the pcb's adapter.
 
 # Why a such adapter <a name="Why-a-such-adapter"></a>
-This adapter is useful for programming MACH chip with ALL-03 & ALL-07 programmers. It has been made fot programming the MACH210 used onto the MEGGIT Module of the Zorro Predule Audio board for Amiga Computers.
+This adapter is made for programming MACH chips with ALL-03 & ALL-07 programmers. It has been designed specialy for programming the MACH210 used onto the MEGGIT Module of the Zorro Predule Audio board for Amiga Computers.
 
 The schematic of the adapter has been made by tinhead. Many thanks to him for his autorization of the publication of this adapter.
 
@@ -30,7 +30,7 @@ A wrong orientation will destroy the MACH chip.
 # About the project files <a name="About-the-project-files"></a>
 The complete project is available here for downloading.
 
-The project has been made with Kicad: https://www.kicad.org/
+The project has been made with Kicad under Linux: https://www.kicad.org/
 
 and FreeRooting: https://github.com/freerouting/freerouting under Linux.
 
