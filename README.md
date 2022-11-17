@@ -9,15 +9,14 @@
 
 # MACH PCB Adapter final version <a name="MACH-PCB-Adapter"></a>
 
-![PCB-Front](https://user-images.githubusercontent.com/80821708/202573482-c123c964-79d9-42b9-9c67-0ace4a5ba61c.png)
-![PCB-Back](https://user-images.githubusercontent.com/80821708/202573508-d647033f-4ffc-4f89-84b3-4f0f45ea7cd7.png)
+![PCB-Front](https://user-images.githubusercontent.com/80821708/202574285-531f18d1-5516-402e-ab55-a56485f13b92.png)
 
 Final version of the pcb's adapter.
 
 # Why a such adapter <a name="Why-a-such-adapter"></a>
 This adapter is useful for programming MACH chip with ALL-03 & ALL-07 programmers. It has been made fot programming the MACH210 used onto the MEGGIT Module of the Zorro Predule Audio board for Amiga Computers.
 
-The schematic of the adapter has been made by XXXXX. Many thanks to him for his autorization of the publication of this adapter.
+The schematic of the adapter has been made by tinhead. Many thanks to him for his autorization of the publication of this adapter.
 
 For informations about the HI-LO universal parallel programmer, you can visit the following very interesting resources page made by Matthieu Benoit:
 http://matthieu.benoit.free.fr/hilosystem_all-07_universal_programmer.htm
