@@ -9,6 +9,8 @@
 
 # MACH PCB Adapter final version <a name="MACH-PCB-Adapter"></a>
 
+![PCB-Front](https://user-images.githubusercontent.com/80821708/202573482-c123c964-79d9-42b9-9c67-0ace4a5ba61c.png)
+![PCB-Back](https://user-images.githubusercontent.com/80821708/202573508-d647033f-4ffc-4f89-84b3-4f0f45ea7cd7.png)
 
 Final version of the pcb's adapter.
 
