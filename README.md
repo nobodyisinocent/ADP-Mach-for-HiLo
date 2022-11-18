@@ -1,4 +1,3 @@
-# ADP-Mach-for-HiLo
 # Table of contents
 1. [MACH PCB Adapter final version](#MACH-PCB-Adapter)
 2. [Why a such adapter](#Why-a-such-adapter)
