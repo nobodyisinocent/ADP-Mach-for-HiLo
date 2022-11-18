@@ -27,9 +27,9 @@ A wrong orientation will destroy the MACH chip.
 
 
 # About the project files <a name="About-the-project-files"></a>
-The complete project is available here for downloading.
+The complete project is available here for downloading (Kicad files + Gerber archive archive file ready for production).
 
-The project has been made with Kicad under Linux: https://www.kicad.org/
+The project has been made with Kicad 5.1.12 under Linux: https://www.kicad.org/
 
 and FreeRooting: https://github.com/freerouting/freerouting under Linux.
 
