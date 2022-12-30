@@ -44,5 +44,5 @@ The project has been made with Kicad 5.1.12 under Linux: https://www.kicad.org/
 and FreeRooting: https://github.com/freerouting/freerouting under Linux.
 
 # BOM <a name="BOM"></a>
-Here be here soon. :-)
+Will be here soon. :-)
 
