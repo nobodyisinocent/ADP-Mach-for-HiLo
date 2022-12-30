@@ -33,6 +33,8 @@ Thanks to Lolof for the following pictures
 Please pay attention to the orientation of the adapter onto the programmer. This orientation is the same for the ALL-07 programmer.
 A wrong orientation will destroy the MACH chip.
 
+Picture will be uploaded soon.
+
 
 # About the project files <a name="About-the-project-files"></a>
 The complete project is available here for downloading (Kicad files + Gerber archive archive file ready for production).
