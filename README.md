@@ -14,7 +14,7 @@
 Final version of the pcb's adapter.
 
 # Why a such adapter <a name="Why-a-such-adapter"></a>
-This adapter is made for programming MACH chips with HiLo programmers. It has been designed specialy for programming the MACH210 used onto the MEGGIT Module of the Zorro Predule Audio board for Amiga Computers.
+This adapter is made for programming MACH chips with HiLo programmers. It has been designed specialy for programming the MACH210 used onto the MEGit Module of the Zorro Predule Audio board for Amiga Computers.
 
 The schematic of the adapter has been made by tinhead from eevblog.com. Many thanks to him for his great work.
 
@@ -30,7 +30,7 @@ Thanks to Lolof for the following pictures
 
 
 # Adapter onto the ALL-11 programmer <a name="Adapter-onto-the-ALL-Lab3-programmer"></a>
-Please pay attention to the orientation of the adapter onto the programmer. This orientation is the same for the ALL-07 programmer.
+Please pay attention to the orientation of the adapter onto the programmer.
 A wrong orientation will destroy the MACH chip.
 
 Here is the adapter used for programming a MACH210 for the Amiga Prelude board.
