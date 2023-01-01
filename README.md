@@ -16,7 +16,7 @@ Final version of the pcb's adapter.
 # Why a such adapter <a name="Why-a-such-adapter"></a>
 This adapter is made for programming MACH chips with HiLo programmers. It has been designed specialy for programming the MACH210 used onto the MEGGIT Module of the Zorro Predule Audio board for Amiga Computers.
 
-The schematic of the adapter has been made by tinhead. Many thanks to him for his autorization of the publication of this adapter.
+The schematic of the adapter has been made by tinhead from eevblog.com. Many thanks to him for his great work.
 
 For informations about the HI-LO universal parallel programmer, you can visit the following very interesting resources page made by Matthieu Benoit:
 http://matthieu.benoit.free.fr/hilosystem_all-07_universal_programmer.htm
