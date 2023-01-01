@@ -43,7 +43,8 @@ And a picture of the software in action !
 
 # About the project files <a name="About-the-project-files"></a>
 The complete project is available here for downloading (Kicad files + Gerber archive archive file ready for production).
-It's a Free project.
+
+It's a Free project, so:
 
 ----- PRODUCTION FOR COMMERCIAL PURPOSES STRICTLY FORBIDDEN -----
 
