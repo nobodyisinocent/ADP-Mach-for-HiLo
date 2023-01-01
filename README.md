@@ -4,7 +4,7 @@
 3. [Pictures of the assembled adapter](#Pictures)
 4. [Adapter onto the ALL-11 programmer](#Adapter-onto-the-ALL-Lab3-programmer)
 5. [About the project files](#About-the-project-files)
-6. [BOM](#BOM)
+6. [BOM](#6)
 
 
 # MACH PCB Adapter final version <a name="MACH-PCB-Adapter"></a>
@@ -54,7 +54,7 @@ If you use Kicad, you can make the rooting of your pcb with FreeRooting: https:/
 
 Online manual: https://freerouting.org/freerouting/using-with-kicad
 
-# BOM <a name="BOM"></a>
+# BOM <a name="6"></a>
 Will be here soon. :-)
 
 |Id	|Designator	|Type	|Value  |Quantity	|Link  |
