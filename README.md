@@ -50,7 +50,9 @@ It's a Free project, so:
 
 The project has been made with Kicad 5.1.12 under Linux: https://www.kicad.org/
 
-and FreeRooting: https://github.com/freerouting/freerouting under Linux.
+If you use Kicad, you can make the rooting of your pcb with FreeRooting: https://github.com/freerouting/freerouting.
+
+Oneline manual: https://freerouting.org/freerouting/using-with-kicad
 
 # BOM <a name="BOM"></a>
 Will be here soon. :-)
