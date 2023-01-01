@@ -1,19 +1,19 @@
 # Table of contents
-1. [MACH PCB Adapter final version](#MACH-PCB-Adapter)
-2. [Why a such adapter](#Why-a-such-adapter)
-3. [Pictures of the assembled adapter](#Pictures)
-4. [Adapter onto the ALL-11 programmer](#Adapter-onto-the-ALL-Lab3-programmer)
-5. [About the project files](#About-the-project-files)
+1. [MACH PCB Adapter final version](#1)
+2. [Why a such adapter](#2)
+3. [Pictures of the assembled adapter](#3)
+4. [Adapter onto the ALL-11 programmer](#4)
+5. [About the project files](#5)
 6. [BOM](#6)
 
 
-# MACH PCB Adapter final version <a name="MACH-PCB-Adapter"></a>
+# MACH PCB Adapter final version <a name="1"></a>
 
 ![PCB-Front](https://user-images.githubusercontent.com/80821708/202574285-531f18d1-5516-402e-ab55-a56485f13b92.png)
 
 Final version of the pcb's adapter.
 
-# Why a such adapter <a name="Why-a-such-adapter"></a>
+# Why a such adapter <a name="2"></a>
 This adapter is made for programming MACH chips with HiLo programmers. It has been designed specialy for programming the MACH210 used onto the MEGit Module of the Zorro Predule Audio board for Amiga Computers.
 
 The schematic of the adapter has been made by tinhead from eevblog.com. Many thanks to him for his great work.
@@ -22,14 +22,14 @@ For informations about the HI-LO universal parallel programmer, you can visit th
 http://matthieu.benoit.free.fr/hilosystem_all-07_universal_programmer.htm
 
 
-# Pictures of the assembled adapter <a name="Pictures"></a>
+# Pictures of the assembled adapter <a name="3"></a>
 Thanks to Lolof for the following pictures
 ![IMG_2651](https://user-images.githubusercontent.com/80821708/210116885-259e9300-7596-43a1-a419-6d15f55e6e42.jpg)
 
 ![IMG_2649](https://user-images.githubusercontent.com/80821708/210117119-f3bfe88e-e814-48a1-95f8-e56985fac8d9.jpg)
 
 
-# Adapter onto the ALL-11 programmer <a name="Adapter-onto-the-ALL-Lab3-programmer"></a>
+# Adapter onto the ALL-11 programmer <a name="4"></a>
 Please pay attention to the orientation of the adapter onto the programmer.
 A wrong orientation will destroy the MACH chip.
 
@@ -41,7 +41,7 @@ And a picture of the software in action !
 
 
 
-# About the project files <a name="About-the-project-files"></a>
+# About the project files <a name="5"></a>
 The complete project is available here for downloading (Kicad files + Gerber archive archive file ready for production).
 
 It's a Free project, so:
