@@ -43,6 +43,7 @@ And a picture of the software in action !
 
 # About the project files <a name="About-the-project-files"></a>
 The complete project is available here for downloading (Kicad files + Gerber archive archive file ready for production).
+It's a Free project. <b Production for commercial purposes strictly forbidden></b>
 
 The project has been made with Kicad 5.1.12 under Linux: https://www.kicad.org/
 
