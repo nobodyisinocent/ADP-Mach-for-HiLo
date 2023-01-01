@@ -2,7 +2,7 @@
 1. [MACH PCB Adapter final version](#MACH-PCB-Adapter)
 2. [Why a such adapter](#Why-a-such-adapter)
 3. [Pictures of the assembled adapter](#Pictures)
-4. [Adapter onto the ALL-03 programmer](#Adapter-onto-the-ALL-Lab3-programmer)
+4. [Adapter onto the ALL-11 programmer](#Adapter-onto-the-ALL-Lab3-programmer)
 5. [About the project files](#About-the-project-files)
 6. [BOM](#BOM)
 
@@ -29,7 +29,7 @@ Thanks to Lolof for the following pictures
 ![IMG_2649](https://user-images.githubusercontent.com/80821708/210117119-f3bfe88e-e814-48a1-95f8-e56985fac8d9.jpg)
 
 
-# Adapter onto the ALL- programmer <a name="Adapter-onto-the-ALL-Lab3-programmer"></a>
+# Adapter onto the ALL-11 programmer <a name="Adapter-onto-the-ALL-Lab3-programmer"></a>
 Please pay attention to the orientation of the adapter onto the programmer. This orientation is the same for the ALL-07 programmer.
 A wrong orientation will destroy the MACH chip.
 
