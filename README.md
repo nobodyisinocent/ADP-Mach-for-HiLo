@@ -56,7 +56,7 @@ and FreeRooting: https://github.com/freerouting/freerouting under Linux.
 Will be here soon. :-)
 
 |Id	|Designator	|Type	|Value  |Quantity	|Link  |
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 |1	|C5      |	1206 CMS capacitor	|10nF  |1	| https://www.reichelt.com/fr/fr/index.html?ACTION=446&LA=0&nbc=1&q=x7r-g1206%2010n |
 |2	|IC1   |	PLCC44 socket	| - | 1	| |https://www.reichelt.com/fr/fr/socles-plcc-44-plcc-44-p14701.html?search=PLCC&&r=1 |
 |3	|RN1 to RN3	    | Network 1206 CMS resistors		|10K |3 |https://www.reichelt.com/fr/fr/r-seau-de-r-sistances-cms-1206-4x10-kohm-5-3-2x1-6x0-6-mm-bcn16-10k-p42471.html?search=+BCN16+10K&&r=1 |
