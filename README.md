@@ -55,3 +55,11 @@ and FreeRooting: https://github.com/freerouting/freerouting under Linux.
 # BOM <a name="BOM"></a>
 Will be here soon. :-)
 
+|Id	|Designator	|Type	|Value  |Quantity	|Link  |
+|---|---|---|---|---|---|---|
+|1	|C5      |	1206 CMS capacitor	|10nF  |1	| https://www.reichelt.com/fr/fr/index.html?ACTION=446&LA=0&nbc=1&q=x7r-g1206%2010n |
+|2	|IC1   |	PLCC44 socket	| - | 1	| |https://www.reichelt.com/fr/fr/socles-plcc-44-plcc-44-p14701.html?search=PLCC&&r=1 |
+|3	|RN1 to RN3	    | Network 1206 CMS resistors		|10K |3 |https://www.reichelt.com/fr/fr/r-seau-de-r-sistances-cms-1206-4x10-kohm-5-3-2x1-6x0-6-mm-bcn16-10k-p42471.html?search=+BCN16+10K&&r=1 |
+|4	|C1    |3225 CMS Tantalum capacitor	|10µF |1	|https://www.reichelt.com/fr/fr/smd-tantal-lowesr-10-f-10-20-v-case-b-0-5-ohm-tps-3225-10-20-p167050.html?search=+TPS+3225+10%2F20&&r=1 |
+|5  |C2 to C4 | 1206 CMS Capacitor  | 100nF | 3 |https://www.reichelt.com/fr/fr/condensateur-c-ramique-multicouche-cms-100-nf-10--x7r-g1206-100n-p22889.html?search=X7R-G1206+100N&&r=1|
+|6  | - | Pin array 2.54mm  | - | 1 |https://www.reichelt.com/fr/fr/barrette-m-le-2-54-mm-1-x-50-droite-mpe-087-1-050-p119891.html?search=MPE+087-1-050&&r=1|
